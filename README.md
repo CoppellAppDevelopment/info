@@ -5,3 +5,9 @@ The Coppell App Development (CAD) club of Coppell High School is oriented toward
 Updates and other information from the club will be posted in our [Facebook group](https://www.facebook.com/groups/appify/). Join to be updated. If you would like to join CAD, please fill out this [new member interest form](http://tinyurl.com/cadsignupform).
 
 Find us on the web at [coppellappdevelopment.com](http://coppellappdevelopment.com/).
+
+###Links
+
+[New Members](https://github.com/CoppellAppDevelopment/new-members)
+[Learn iOS](https://github.com/CoppellAppDevelopment/Learn-iOS)
+[Learn Android](https://github.com/CoppellAppDevelopment/Learn-Android)
