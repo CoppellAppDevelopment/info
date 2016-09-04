@@ -9,5 +9,7 @@ Find us on the web at [coppellappdevelopment.com](http://coppellappdevelopment.c
 ###Links
 
 [New Members](https://github.com/CoppellAppDevelopment/new-members)
+
 [Learn iOS](https://github.com/CoppellAppDevelopment/Learn-iOS)
+
 [Learn Android](https://github.com/CoppellAppDevelopment/Learn-Android)
