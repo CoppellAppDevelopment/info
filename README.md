@@ -9,6 +9,6 @@ Find us on the web at [coppellappdevelopment.com](http://coppellappdevelopment.c
 ###New Members
 - [Member Setup](https://github.com/CoppellAppDevelopment/new-members)  
 
-###Workshops
-- [Learn iOS](https://github.com/CoppellAppDevelopment/Learn-iOS)  
-- [Learn Android](https://github.com/CoppellAppDevelopment/Learn-Android)
+###Curriculum
+- [iOS](https://github.com/CoppellAppDevelopment/Learn-iOS)  
+- [Android](https://github.com/CoppellAppDevelopment/Learn-Android)
