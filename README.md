@@ -8,9 +8,9 @@ Updates and other information from the club will be posted in our [Facebook grou
 
 Find us on the web at [coppellappdevelopment.com](http://coppellappdevelopment.com/).
 
-###New Members
+### New Members
 - [Member Setup](https://github.com/CoppellAppDevelopment/new-members)  
 
-###Curriculum
+### Curriculum
 - [iOS](https://github.com/CoppellAppDevelopment/Learn-iOS)  
 - [Android](https://github.com/CoppellAppDevelopment/Learn-Android)
